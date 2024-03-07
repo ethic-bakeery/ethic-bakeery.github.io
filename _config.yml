@@ -7,37 +7,37 @@
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # --------------------------
-title: tw00t                          # the main title
+title: bakeery                          # the main title
 
-tagline: A journey of hacking         # it will display as the sub-title
+tagline: Great work stems from loving what you do.  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   starter 
 
 # fill in the base hostname & protocol for your site, e.g., 'https://username.github.io'
-url: 'https://tw00t.github.io'
+url: 'https://ethic-bakeery.github.io'
 
-author: tw00t                  # change to your full name
+author: bakeery                  # change to your full name
 
 avatar: /assets/img/avatar.jpg   # support internet resources
 
 github:
-  username: tw00t             # change to your github username
+  username: ethic-bakeery             # change to your github username
 
 twitter:
-  username: tw00t            # change to your twitter username
+  username: fckbwn            # change to your twitter username
 
 social:
-  name: tw00t                 # it will shows as the copyright owner in Footer
-  # email: example@doamin.com             # change to your email address
+  name: bakeery                 # it will shows as the copyright owner in Footer
+  # email: bakeery.wtf@gmail.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/tw00t      # change to your twitter homepage
-    - https://github.com/tw00t       # change to your github homepage
+    - https://twitter.com/fckbwn      # change to your twitter homepage
+    - https://github.com/ethic-bakeery       # change to your github homepage
     # Uncomment below to add more social links
-    # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
-    - https://discordapp.com/users/794970846754111538/
+    - https://www.facebook.com/profile.php?id=100041119183439
+    - https://www.linkedin.com/in/abubakar-usman-011115263?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+    # - https://discordapp.com/users/794970846754111538/
 
 #google_site_verification: google_meta_tag_verification # change to your verification string
 
