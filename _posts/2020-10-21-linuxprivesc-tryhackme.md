@@ -1,8 +1,8 @@
 ---
 title: "Linux PrivEsc - TryHackMe"
-author: krishna
+author: bakeery
 description: "Walkthrough of Linux PrivEsc from TryHackMe"
-date: 2020-10-21 00:00:00 +0530
+date: 2021-06-11 00:00:00 +0530
 categories: [writeups, tryhackme]
 tags: [privesc, linux]
 ---

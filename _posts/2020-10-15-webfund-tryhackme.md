@@ -2,7 +2,7 @@
 title: "Web Fundamentals - TryHackMe"
 author: krishna
 description: "Walkthrough of Web Fundamentals from TryHackMe"
-date: 2020-10-15 22:22:22 +0530
+date: 2022-06-15 22:22:22 +0530
 categories: [writeups, tryhackme]
 tags: [web]
 ---

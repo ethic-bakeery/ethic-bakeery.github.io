@@ -2,7 +2,7 @@
 title: "Shodan.io - TryHackMe"
 author: krishna
 description: "Walkthrough of Shodan.io from TryHackMe"
-date: 2020-10-20 00:00:00 +0530
+date: 2023-07-20 00:00:00 +0530
 categories: [writeups, tryhackme]
 tags: [web, tool]
 ---

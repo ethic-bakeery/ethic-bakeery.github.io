@@ -1,8 +1,8 @@
 ---
 title: "Nmap - TryHackMe"
-author: krishna
+author: bakeery
 description: "Walkthrough of Nmap Fundamentals from TryHackMe"
-date: 2020-10-13 22:22:22 +0530
+date: 2022-10-13 22:22:22 +0530
 categories: [writeups, tryhackme]
 tags: [tool]
 ---

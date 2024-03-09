@@ -1,8 +1,8 @@
 ---
 title: "Simple CTF - TryHackMe"
-author: krishna
+author: bakeery
 description: "Walkthrough of Simple CTF from TryHackMe"
-date: 2020-10-22 00:00:00 +0530
+date: 2023-04-12 00:00:00 +0530
 categories: [writeups, tryhackme]
 tags: [web, linux, privesc]
 ---

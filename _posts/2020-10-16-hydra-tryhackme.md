@@ -1,8 +1,8 @@
 ---
 title: "Hydra - TryHackMe"
-author: krishna
+author: bakeery
 description: "Walkthrough of Hydra from TryHackMe"
-date: 2020-10-16 22:22:22 +0530
+date: 2023-03-16 22:22:22 +0530
 categories: [writeups, tryhackme]
 tags: [tool]
 ---

@@ -1,8 +1,8 @@
 ---
 title: "Pickle Rick - TryHackMe"
-author: krishna
+author: bakeery
 description: "Walkthrough of Pickle Rick from TryHackMe"
-date: 2020-10-21 00:00:00 +0530
+date: 2021-04-21 00:00:00 +0530
 categories: [writeups, tryhackme]
 tags: [web, linux, privesc, ctf]
 ---

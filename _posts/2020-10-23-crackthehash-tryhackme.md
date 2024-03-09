@@ -1,8 +1,8 @@
 ---
 title: "Crack the Hash - TryHackMe"
-author: krishna
+author: bakeery
 description: "Walkthrough of Crack the Hash from TryHackMe"
-date: 2020-10-23 00:00:00 +0530
+date: 2022-12-23 00:00:00 +0530
 categories: [writeups, tryhackme]
 tags: [crypto]
 ---

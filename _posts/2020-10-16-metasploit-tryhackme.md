@@ -1,8 +1,8 @@
 ---
 title: "Metasploit - TryHackMe"
-author: krishna
+author: bakeery
 description: "Walkthrough of Metasploit from TryHackMe"
-date: 2020-10-16 22:22:22 +0530
+date: 2023-02-16 22:22:22 +0530
 categories: [writeups, tryhackme]
 tags: [tool]
 ---

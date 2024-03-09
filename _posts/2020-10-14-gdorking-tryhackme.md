@@ -1,8 +1,8 @@
 ---
 title: "Google Dorking - TryHackMe"
-author: krishna
+author: bakeery
 description: "Walkthrough of Google Dorking Fundamentals from TryHackMe"
-date: 2020-10-14 22:22:22 +0530
+date: 2023-05-14 22:22:22 +0530
 categories: [writeups, tryhackme]
 tags: [osint]
 ---

@@ -1,8 +1,8 @@
 ---
 title: "OhSINT - TryHackMe"
-author: krishna
+author: bakeery
 description: "Walkthrough of OhSINT from TryHackMe"
-date: 2020-10-19 00:00:00 +0530
+date: 2022-06-19 00:00:00 +0530
 categories: [writeups, tryhackme]
 tags: [osint]
 ---

@@ -1,8 +1,8 @@
 ---
 title: "Web Scanning - TryHackMe"
-author: krishna
+author: bakeery
 description: "Walkthrough of Web Scanning from TryHackMe"
-date: 2020-10-19 00:00:00 +0530
+date: 2023-04-19 00:00:00 +0530
 categories: [writeups, tryhackme]
 tags: [web, tool]
 ---

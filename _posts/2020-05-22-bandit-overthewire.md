@@ -1,6 +1,6 @@
 ---
 title: "Bandit - OverTheWire"
-author: krishna
+author: bakeery
 description: "Walkthrough of Bandit CTF"
 date: 2020-05-22 22:22:22 +0530
 categories: [writeups, overthewire]

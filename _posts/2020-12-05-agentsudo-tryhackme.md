@@ -1,8 +1,8 @@
 ---
 title: "Agent Sudo - TryHackMe"
-author: krishna
+author: bakeery
 description: "Walkthrough of Agent Sudo CTF from TryHackMe"
-date: 2020-12-05 00:00:00 +0530
+date: 2024-02-01 00:00:00 +0530
 categories: [writeups, tryhackme]
 tags: [ctf, privesc, steg, linux, osint]
 pin: true
