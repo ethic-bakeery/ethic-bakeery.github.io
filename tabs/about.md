@@ -29,4 +29,4 @@ Additionally, I am offering my expertise for free to assist individuals and orga
 
 In summary, I am a dedicated and motivated student with a deep-rooted passion for cybersecurity. Through my academic journey and practical experiences, I am committed to becoming a proficient cybersecurity professional capable of addressing the ever-evolving challenges in our digital world.
 
-<script src="https://tryhackme.com/badge/735691"></script>
+TryHackme Profile: <script src="https://tryhackme.com/badge/735691"></script>
